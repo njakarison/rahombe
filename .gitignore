@@ -6,3 +6,4 @@ moodledata/
 phpMyAdmin/
 sujet/
 uploads/*.mp4
+*/.DS_Store
