@@ -1,0 +1,8 @@
+.old/
+class/
+class.*
+moodle/
+moodledata/
+phpMyAdmin/
+sujet/
+uploads/*.mp4
