@@ -99,6 +99,7 @@ function listing($repertoire){
   <!-- Theme Made By www.w3schools.com - No Copyright -->
   <title>Online file storage</title>
   <meta charset="utf-8">
+  <link rel="icon" type="image/png" href="image/favicon.png"/>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
